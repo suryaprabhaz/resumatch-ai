@@ -1,0 +1,31 @@
+# General
+.DS_Store
+.idea
+.vscode
+
+# Node.js / Frontend
+client/node_modules/
+client/dist/
+client/.env
+client/.env.local
+client/.env.*.local
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+# Python / Backend
+server/__pycache__/
+server/*.py[cod]
+server/*$py.class
+server/venv/
+server/.venv/
+server/env/
+server/.env
+server/.pytest_cache/
+server/instance/
+server/.coverage
+server/htmlcov/
+
+# ResuMatch AI Specific
+server/uploads/*
+!server/uploads/.gitkeep
