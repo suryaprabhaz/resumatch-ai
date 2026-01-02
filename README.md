@@ -77,9 +77,6 @@
 
 3.  Open your browser and navigate to the client URL!
 
-## 📸 Screenshots
-
-*(Add screenshots of your application here)*
 
 ## 🤝 Contributing
 
